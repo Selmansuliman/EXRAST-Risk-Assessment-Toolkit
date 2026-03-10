@@ -26,7 +26,7 @@ No macros. No external dependencies. Fully transparent logic.
 ### 1. Structured Risk Quantification
 
 * 5×5 Likelihood × Impact Matrix
-* Automated Risk Score calculation (1–25)
+* Automated risk score calculation (1–25)
 * fully transparent risk calculation logic
 * Clear scoring logic separated from visualization layer
 

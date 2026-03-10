@@ -27,6 +27,7 @@ No macros. No external dependencies. Fully transparent logic.
 
 * 5×5 Likelihood × Impact Matrix
 * Automated Risk Score calculation (1–25)
+* fully transparent risk calculation logic
 * Clear scoring logic separated from visualization layer
 
 ### 2. Risk Appetite–Driven Classification

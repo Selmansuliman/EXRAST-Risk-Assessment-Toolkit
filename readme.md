@@ -1,4 +1,4 @@
-# ISO/NiST-Aligned Risk Assessment & Managment Toolkit
+# ISO/NIST-Aligned Risk Assessment & Managment Toolkit
 ## Note:
 The file is read-only copy, if you need your own copy send me an email.
 ---

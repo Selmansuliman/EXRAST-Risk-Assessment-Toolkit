@@ -220,7 +220,7 @@ The model is conceptually aligned with:
 
 </div>
 
-© 2026 – EXRAST Professional Risk Governance Toolkit   
+© 2026 – EXRAST Professional Toolkit   
 Designed for structured, defensible, and executive-ready risk management.     
 www.linkedin.com/in/selman-suliman          
 sulimanselman31@gmail.com

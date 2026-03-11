@@ -16,7 +16,7 @@ Unlike many commercial GRC tools, this model provides fully transparent risk cal
 
 ---
 ## Use it to: Address, Analize, Assess, Control and Manage Risks.
-No macros. No external dependencies. Fully transparent logic.
+No macros. No external dependencies. Fully transparent logic.       
 No Cloud. No Data Exposure. Full Control of Your Cybersecurity Risk Data
 
 
